@@ -1,0 +1,71 @@
+{
+  "recipes": [
+    {
+      "title": "How to make Choole",
+      "des": "Make Chhole in 10min",
+      "time": "15min",
+      "method": "poaching",
+      "name": "Bhanu Pratap Solanki",
+      "id": 1
+    },
+    {
+      "title": "How to make Paneer",
+      "des": "Make paneer in 10 min",
+      "time": "15min",
+      "method": "frying",
+      "id": 2
+    },
+    {
+      "title": "how to Make maggi in 2 min",
+      "des": "use this method",
+      "time": "10 min",
+      "method": "boiling",
+      "id": 3
+    },
+    {
+      "title": "How to make Parada",
+      "des": "Make Chole in 10 min",
+      "time": "50min",
+      "method": "frying",
+      "id": 4
+    },
+    {
+      "title": "How to make Halwa",
+      "des": "Make Halwa in 10 min",
+      "time": "30min",
+      "method": "steaming",
+      "id": 5
+    },
+    {
+      "title": "How to make Lassi",
+      "des": "Make lassi in 10 min",
+      "time": "10 min",
+      "method": "steaming",
+      "id": 6
+    },
+    {
+      "title": "Make bhatoore",
+      "des": "Make Chole in 10 min",
+      "time": "15min",
+      "method": "boiling",
+      "id": 7
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
